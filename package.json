@@ -19,8 +19,7 @@
   "bugs": {
     "url": "https://github.com/vasllly/ajs-hw-2-2/issues"
   },
-  "homepage": "https://github.com/vasllly/ajs-hw-2-2
-#readme",
+  "homepage": "https://github.com/vasllly/ajs-hw-2-2#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
